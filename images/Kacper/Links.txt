@@ -1,8 +1,0 @@
-Links
-
-https://www.olympus-ims.com/data/File/panametrics/UT-technotes.en.pdf
-http://www.olympus-ims.com/en/ndt-tutorials/flaw-detection/generating-ultrasound/
-
-http://hyperphysics.phy-astr.gsu.edu/hbase/sound/usound.html
-http://www.wikiradiography.net/page/Basic+Ultrasound+Physics
-http://www.wikiecho.org/wiki/Physics_of_ultrasound
