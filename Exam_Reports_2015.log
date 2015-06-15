@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.23)  14 JUN 2015 14:17
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.23)  15 JUN 2015 07:51
 entering extended mode
 **Exam_Reports_2015.tex
 (C:\Users\Kacper\Desktop\BEE_15\Exam_Reports_2015.tex
@@ -1313,10 +1313,27 @@ File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 7.
-)
-Underfull \hbox (badness 10000) in paragraph at lines 15--16
 
- []
+<./images/Kacper/11.png, id=6, 602.85225pt x 58.41824pt>
+File: ./images/Kacper/11.png Graphic file (type png)
+
+<use ./images/Kacper/11.png>
+Package pdftex.def Info: ./images/Kacper/11.png used on input line 16.
+(pdftex.def)             Requested size: 426.79135pt x 41.35779pt.
+
+<./images/Kacper/11a.png, id=7, 602.85225pt x 60.225pt>
+File: ./images/Kacper/11a.png Graphic file (type png)
+
+<use ./images/Kacper/11a.png>
+Package pdftex.def Info: ./images/Kacper/11a.png used on input line 23.
+(pdftex.def)             Requested size: 426.79135pt x 42.63689pt.
+
+<./images/Kacper/11p.png, id=8, 446.26724pt x 258.36525pt>
+File: ./images/Kacper/11p.png Graphic file (type png)
+
+<use ./images/Kacper/11p.png>
+Package pdftex.def Info: ./images/Kacper/11p.png used on input line 30.
+(pdftex.def)             Requested size: 426.79135pt x 247.09741pt.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1326,42 +1343,51 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 [1{C:/Users/Kacper/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
 
-]
+ <C:/Users/Kacper/Desktop/BEE_15/images/Kacper/11.png> <C:/Users/Kacper/Desktop
+/BEE_15/images/Kacper/11a.png>])
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[2 <C:/Users/Kacper/Desktop/BEE_15/images/Kacper/11p.png>]
 (C:\Users\Kacper\Desktop\BEE_15\sections/Experiment1-2.tex
 Underfull \hbox (badness 10000) in paragraph at lines 4--6
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 12--13
+Underfull \hbox (badness 10000) in paragraph at lines 8--10
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 14--15
+Underfull \hbox (badness 10000) in paragraph at lines 12--14
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 16--17
+Underfull \hbox (badness 10000) in paragraph at lines 15--17
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 18--19
+Underfull \hbox (badness 10000) in paragraph at lines 18--20
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 20--21
+Underfull \hbox (badness 10000) in paragraph at lines 21--23
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--26
 
  []
 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 24--21
-
- []
-
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
@@ -1375,11 +1401,12 @@ been already used, duplicate ignored
 l.21 \clearpage
                 [1
 
-] (C:\Users\Kacper\Desktop\BEE_15\sections/Experiment1-3.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 28--26
-
+] (C:\Users\Kacper\Desktop\BEE_15\sections/Experiment1-3.tex
+Overfull \hbox (12.51376pt too wide) in paragraph at lines 31--31
+[] 
  []
 
+)
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
@@ -1394,7 +1421,12 @@ l.26 \clearpage
                 [1
 
 ] (C:\Users\Kacper\Desktop\BEE_15\sections/Experiment1-4.tex
-Underfull \hbox (badness 10000) in paragraph at lines 20--21
+Underfull \hbox (badness 10000) in paragraph at lines 20--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--30
 
  []
 
@@ -1412,21 +1444,7 @@ been already used, duplicate ignored
 l.31 \clearpage
                 [1
 
-] (C:\Users\Kacper\Desktop\BEE_15\sections/Experiment2-1.tex
-Underfull \hbox (badness 10000) in paragraph at lines 1--2
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3--4
-
- []
-
-)
-Underfull \hbox (badness 10000) in paragraph at lines 5--41
-
- []
-
+] (C:\Users\Kacper\Desktop\BEE_15\sections/Experiment2-1.tex)
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
@@ -1441,17 +1459,12 @@ l.41 \clearpage
                 [1
 
 ] (C:\Users\Kacper\Desktop\BEE_15\sections/Experiment2-2.tex
-Underfull \hbox (badness 10000) in paragraph at lines 1--2
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3--4
+Underfull \hbox (badness 10000) in paragraph at lines 3--5
 
  []
 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 5--46
+Underfull \hbox (badness 10000) in paragraph at lines 36--46
 
  []
 
@@ -1473,16 +1486,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--2
 
  []
 
+<./images/Kacper/23.png, id=51, 540.8205pt x 52.998pt>
+File: ./images/Kacper/23.png Graphic file (type png)
 
-Underfull \hbox (badness 10000) in paragraph at lines 3--4
+<use ./images/Kacper/23.png>
+Package pdftex.def Info: ./images/Kacper/23.png used on input line 16.
+(pdftex.def)             Requested size: 426.79135pt x 41.82347pt.
 
- []
+<./images/Kacper/23a.png, id=52, 364.36125pt x 216.20775pt>
+File: ./images/Kacper/23a.png Graphic file (type png)
 
+<use ./images/Kacper/23a.png>
+Package pdftex.def Info: ./images/Kacper/23a.png used on input line 25.
+(pdftex.def)             Requested size: 426.79135pt x 253.26225pt.
 )
-Underfull \hbox (badness 10000) in paragraph at lines 5--51
-
- []
-
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
@@ -1496,20 +1513,44 @@ been already used, duplicate ignored
 l.51 \clearpage
                 [1
 
-] (C:\Users\Kacper\Desktop\BEE_15\sections/Experiment3-1.tex
+ <C:/Users/Kacper/Desktop/BEE_15/images/Kacper/23.png> <C:/Users/Kacper/Desktop
+/BEE_15/images/Kacper/23a.png>]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.51 \clearpage
+                [2] (C:\Users\Kacper\Desktop\BEE_15\sections/Experiment3-1.tex
 Underfull \hbox (badness 10000) in paragraph at lines 1--2
 
  []
 
+<./images/Kacper/31.png, id=61, 264.38776pt x 75.28125pt>
+File: ./images/Kacper/31.png Graphic file (type png)
 
-Underfull \hbox (badness 10000) in paragraph at lines 3--4
+<use ./images/Kacper/31.png>
+Package pdftex.def Info: ./images/Kacper/31.png used on input line 12.
+(pdftex.def)             Requested size: 298.75264pt x 85.06909pt.
 
- []
+<./images/Kacper/31a.png, id=62, 360.1455pt x 218.0145pt>
+File: ./images/Kacper/31a.png Graphic file (type png)
 
-)
-Underfull \hbox (badness 10000) in paragraph at lines 5--61
+<use ./images/Kacper/31a.png>
+Package pdftex.def Info: ./images/Kacper/31a.png used on input line 18.
+(pdftex.def)             Requested size: 426.79135pt x 258.3726pt.
 
- []
+<./images/Kacper/31b.png, id=63, 361.35pt x 219.82124pt>
+File: ./images/Kacper/31b.png Graphic file (type png)
+
+<use ./images/Kacper/31b.png>
+Package pdftex.def Info: ./images/Kacper/31b.png used on input line 27.
+(pdftex.def)             Requested size: 426.79135pt x 259.63501pt.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1521,21 +1562,29 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
+l.30 
+      [1
+
+ <C:/Users/Kacper/Desktop/BEE_15/images/Kacper/31.png> <C:/Users/Kacper/Desktop
+/BEE_15/images/Kacper/31a.png>])
+Underfull \hbox (badness 10000) in paragraph at lines 31--61
+
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
 l.61 \clearpage
-                [1
-
-] (C:\Users\Kacper\Desktop\BEE_15\sections/Experiment3-2.tex
-Underfull \hbox (badness 10000) in paragraph at lines 1--2
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3--4
-
- []
-
-)
-Underfull \hbox (badness 10000) in paragraph at lines 5--66
+                [2 <C:/Users/Kacper/Desktop/BEE_15/images/Kacper/31b.png>]
+(C:\Users\Kacper\Desktop\BEE_15\sections/Experiment3-2.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 16--66
 
  []
 
@@ -1553,20 +1602,11 @@ l.66 \clearpage
                 [1
 
 ] (C:\Users\Kacper\Desktop\BEE_15\sections/Experiment3-3.tex
-Underfull \hbox (badness 10000) in paragraph at lines 1--2
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3--4
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
 
  []
 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 5--71
-
- []
-
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
@@ -1677,27 +1717,30 @@ Package rerunfilecheck Info: File `Exam_Reports_2015.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 91.
  ) 
 Here is how much of TeX's memory you used:
- 22036 strings out of 493921
- 396433 string characters out of 3144873
- 470409 words of memory out of 3000000
- 24801 multiletter control sequences out of 15000+200000
- 31962 words of font info for 37 fonts, out of 3000000 for 9000
+ 22138 strings out of 493921
+ 398195 string characters out of 3144873
+ 472408 words of memory out of 3000000
+ 24882 multiletter control sequences out of 15000+200000
+ 43927 words of font info for 41 fonts, out of 3000000 for 9000
  846 hyphenation exceptions out of 8191
- 64i,14n,58p,618b,346s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Progr
-am Files (x86)/MiKTeX 2.9/fonts/enc/dvips/lm/lm-rm.enc}{C:/Program Files (x86)/
-MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Program Files (x86)/MiKTeX 2.9/
+ 64i,14n,75p,637b,404s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Progr
+am Files (x86)/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Program Files (x
+86)/MiKTeX 2.9/fonts/enc/dvips/lm/lm-rm.enc}{C:/Program Files (x86)/MiKTeX 2.9/
 fonts/enc/dvips/lm/lm-ec.enc}<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/pub
-lic/lm/lmbx12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmmi
-12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmmi8.pfb><C:/P
-rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmr12.pfb><C:/Program Files
- (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmr6.pfb><C:/Program Files (x86)/MiKTeX
- 2.9/fonts/type1/public/lm/lmr8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/ty
-pe1/public/lm/lmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/
-lm/lmsy8.pfb>
-Output written on Exam_Reports_2015.pdf (13 pages, 134258 bytes).
+lic/lm/lmbx10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmbx
+12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmmi12.pfb><C:/
+Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmmi6.pfb><C:/Program File
+s (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmmi8.pfb><C:/Program Files (x86)/MiKT
+eX 2.9/fonts/type1/public/lm/lmr10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts
+/type1/public/lm/lmr12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/publi
+c/lm/lmr6.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmr8.pfb
+><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb><C:/Progra
+m Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmsy8.pfb><C:/Program Files (x86
+)/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on Exam_Reports_2015.pdf (16 pages, 286426 bytes).
 PDF statistics:
- 94 PDF objects out of 1000 (max. 8388607)
- 5 named destinations out of 1000 (max. 500000)
- 13 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 138 PDF objects out of 1000 (max. 8388607)
+ 13 named destinations out of 1000 (max. 500000)
+ 53 words of extra memory for PDF output out of 10000 (max. 10000000)
 

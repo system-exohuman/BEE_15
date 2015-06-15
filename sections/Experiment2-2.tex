@@ -1,5 +1,36 @@
 \paragraph*{Objective} \hfill \\
-
+The objective of this experiment is to use Thevenin and Norton Theories and find their equivelents, by experimend and also by calculating.
 \paragraph*{Results and procedure} \hfill\\
+Following values are given by : \\
+\begin{align*}
+&V=20V	&	R_{1}&= 1k\Omega	&	R_{2}&= 100k\Omega	&	R_{3}&= 4.7k\Omega	&	R_{4}&= 1.8k\Omega
+\end{align*}
 
+\begin{flushleft}
+The Thevenin Equivalent is measured to: $ R_{th}= 3k\Omega $. Resistance ($ R_{th} $) is calculated by:
+\end{flushleft}
+
+\begin{align*}
+R_{th}&= (R_{1} \parallel R_{3})+(R_{2} \parallel R_{4}) = \frac{R_{1}R_{3}}{R_{1}+R_{3}}+ \frac{R_{2}R_{4}}{R_{2}+R_{4}} = \frac{1 \times 4.7}{1+4.7} + \frac{100 \times 1.8}{100+ 1.8} \\
+&=2.59 \cong 2.6k\Omega
+\end{align*}
+
+\begin{flushleft}
+Voltage ($ V_{th} $) is calculated by:
+\end{flushleft}
+\begin{align*}
+V_{th}&=V(\frac{R_{3}}{R_{1}+R_{3}}-\frac{R_{4}}{R_{2}-R_{4}})
+&=20(\frac{4.7}{1+4.7}-\frac{1.8}{100+1.8})	
+&=20 \times 0.8 =16.1V
+\end{align*}
+%draw circuit TH
+
+\begin{flushleft}
+Norton equivalent current($ I_{n} $) is measured to: $ I_{n}= 5.98mA $. Resistance ($ R_{th} $) is calculated by:
+\end{flushleft}
+
+\begin{align*}
+&I_{n}= \frac{V_{th}}{R_{th}}= \frac{16.1}{2.6}= 6.2mA
+\end{align*}
+%Draw norton NC
 \paragraph*{Conclusion} \hfill \\

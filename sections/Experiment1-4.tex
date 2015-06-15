@@ -11,10 +11,19 @@ R_{1}=180\Omega \,\,\,\,\, R_{2}=18\Omega \,\,\,\,\, R_{3}=270\Omega \\
 \end{equation}
 
 The voltage that falls on $R_{3}$ is calculated using superposition.
+Firs the voltage is set to 0; the circuit simplification process allows us to derive the following equations:
 
-\begin{equation}
-e= \frac{R_{2}}{R_{1}+R_{2}}V+ \frac{R_{1}R_{2}}{R_{1}+R_{2}}I = 1.43V \\
-\end{equation}
+\begin{align*}
+&R_{12}= \frac{R_{1}R_{2}}{R_{1}+R_{2}}=\frac{180\times 18}{180+18} = 16.36\Omega \\
+&R_{5}= R_{12}+R_{2} = 16.36+18=34.36\Omega \\
+&R_{P}= \frac{R_{5}R_{3}}{R_{5}+R_{3}}=\frac{34.36\times 270}{34.36+270}=30.48\Omega \\
+\end{align*}
+Next, from the equation: $ I=\frac{V_{a}}{V_{b}} $ \,\,\,\, the voltage $V_{a}$ can be calculated:\\
+\begin{align*}
+&V_{a}=I\times R_{P} = 0,06 \times 30.48 = 1.83 V 
+\end{align*}
+
+
 
 %add measured R3
 \paragraph*{Conclusion} \hfill \\

@@ -1,5 +1,23 @@
 \paragraph*{Objective} \hfill \\
-
+The objective of this experiment is to get familiar with Thermometers and see how their resistance changes with temperature.
 \paragraph*{Results and procedure} \hfill\\
+The table below shows our measurement of the resistance of the NTC sensor for room temperature and temperature of the hand. The table also shows the datasheet values for the corresponding temperatures (22 C and 33 C ).
+Table
 
+Open circuit voltage ($ V_{oc} $) is calculated for both cases using the equation:
+Thus,
+\begin{align*}
+V_{oc}=V_{a}-V_{b}=V(\frac{R_{3}}{R_{1}+R_{3}}-\frac{R_{4}}{R_{2}-R_{4}})
+\end{align*}
+\begin{align*}
+V_{oc,room}&=1.45(\frac{4.7}{8.6+4.7}-\frac{1.8}{10+1.8})	\,\,\,\,\,\text{and}&	V_{oc,hand}&=1.45(\frac{4.7}{6.1+4.7}-\frac{1.8}{10+1.8})\\
+&=1.45 \times 0.2	&	&=1.45 \times 0.29 \\
+&= 0.29V	&	&= 0.42V \\
+\end{align*}
+
+The measured voltages "$ V_{oc} $":
+\begin{align*}
+V_{oc,room}&=0.3V	&	V_{oc,hand}&=0.45V \\
+\end{align*}
 \paragraph*{Conclusion} \hfill \\
+In conclusion we achieved the goal of understanding how a thermometer work. Our measurements and calculations for voltage have a differance smaller than 0.05V. In regards to the resistance we learned that although we set the temperature to 22 and 35, looking at the datasheet, we could see that our measurement values of $R_{room}$ and $R_{hand}$ corresponded to 28 and 36 respectively.

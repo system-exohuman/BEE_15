@@ -1,5 +1,5 @@
 \paragraph*{Objective} \hfill \\
-The objective of this experiment is to get more familiar with KVL and KCL. 
+The objective of this experiment is to get more familiar with KVL and KCL and superposition.
 
 \paragraph*{Results and procedure} \hfill \\
 Following values are given:
@@ -7,23 +7,40 @@ Following values are given:
 $ V_{a}=5V \,\,\,\,\,\, V_{b}=10V \,\,\,\,\,\, R_{1}= 22k\Omega\,\,\,\,\,\, R_{2}=33k\Omega \,\,\,\,\,\, R_{3}= 10k\Omega $
 
 \begin{flushleft}
-Calculations were made using KCL to find all the independant equasions for the current: \hfill \\
+KVL and KCL imply:
+\end{flushleft}
+\begin{flalign*}
+& V_{2}+V_{1}=V_{A} \\
+& V_{2}+V_{3}=V_{B} \\
+& i_{1}+i_{3}=i_{2} 
+\end{flalign*}
+\begin{flushleft}
+Using superposition:
 \end{flushleft}
 
 \begin{flalign*}
-& i_{1}= \frac{5\times 33\times 10^3 +5\times 10^3 -10\times10^3}{22\times 10^6 \times 33 + 33\times 10 \times 10^6 + 22\times 10\times 10^6}= \frac{-115}{1276\times 10^3} \cong -0.09mA \\
-& i_{2}= \frac{(5\times10 + 10\times 22)\times 10^3}{1276\times 10^6} \cong 0.2mA \\
-& i_{3}= \frac{(10\times +10\times 22- 5\times 33) \times10^3}{1276\times 10^6}= \frac{385}{1276\times 10^3} \cong 0.3mA \\
+i_{1}&= \frac{5\times 33\times 10^3 +5\times 10^3 -10\times10^3}{22\times 10^6 \times 33 + 33\times 10 \times 10^6 + 22\times 10\times 10^6}= \frac{-115}{1276\times 10^3} \cong -0.09mA \\
+%measurement
+i_{1measured}&=-0.15mA \\
+i_{2}&= \frac{(5\times10 + 10\times 22)\times 10^3}{1276\times 10^6} \cong 0.2mA \\
+%measurement
+i_{2measured}&=0,18mA\\
+i_{3}&= \frac{(10\times +10\times 22- 5\times 33) \times10^3}{1276\times 10^6}= \frac{385}{1276\times 10^3} \cong 0.3mA \\
+%measurement
+i_{3measured}&=0.34mA\\
 \end{flalign*}
 
 \begin{flushleft}
 Using KVL following voltages were determined:
 \end{flushleft}
 \begin{align*}
-&V_{1}=I \times R = -0.09\times 22 = -1.98V \\
-&V_{2}=0.2\times 33 = 6.6V \\
-&V_{3}=0.3\times 10 = 3V 
+V_{1}&=i_{1} \times r_{1} = -0.09\times 22 = -1.98V \\
+V_{1measured}&=-3.25V \\
+V_{2}&=0.2\times 33 = 6.6V \\
+V_{2measured}&=5.94V \\
+V_{3}&=0.3\times 10 = 3V \\
+V_{3measured}&=3.44V \\
 \end{align*}
 
 \paragraph*{Conclusion} \hfill \\
-%Write v1+v2=Va=5 etc + check, by substituting in this equasion
+In conclusion our measurements and the calculations are in average within the level of tolerance of 20%.
